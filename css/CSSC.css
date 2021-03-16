@@ -1,0 +1,97 @@
+*{
+  padding: 0rem;
+  margin: 0rem;
+  color: #F2E29E;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+
+
+html, body{
+  background-color: rgb(55,65,89);
+  
+}
+
+
+.titulo{
+  
+  padding-bottom: 17rem;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(230, 147, 15);  
+}
+
+.yo{
+  
+  margin-top: 2rem;
+  margin-left:30rem;
+  float: left;
+}
+
+h1{
+  font-size: 5rem;
+}
+
+h2{
+  font-size: 4rem;
+}
+
+.datos{
+  font-size: 3rem;
+}
+
+.seccion1-1, .seccion2-1, .seccion3-1, .seccion4-1{
+  border: 5px solid rgb(21, 54, 68);
+  border-radius: 8px;
+  margin-top: 5rem;
+  font-size: 2rem;  
+  display: inline-block;
+}
+
+.estudios, .certificaciones, .hobbies, .habilidades{
+  margin: 5px;
+  padding: 1rem;  
+  border: 5px solid rgb(21, 54, 68);
+  border-radius: 8px;
+}
+
+.escuelas, .chale, .hobs{
+  margin: 5px;
+  padding: 1rem;
+  border: 5px solid rgb(21, 54, 68);
+  border-radius: 8px;
+  text-align: center;
+  
+}
+.certificaciones{
+  
+  padding-left: 21.5rem;
+  padding-right: 21.5rem;
+  box-sizing: 
+}
+
+.hobbies{
+  padding-left: 24.5rem;
+  padding-right: 24.5rem;
+}
+
+.habilidades{
+  padding-left: 23rem;
+  padding-right: 23rem;
+}
+
+.idenap, .rubik, .cocinando, .leyendas, .peon, .skils{
+  width: 25rem;
+   
+}
+
+.cecyt{
+  width: 15rem;
+}
+
+.pie{
+  padding: 5rem;
+  border: 1px solid rgb(0, 0, 0);
+  background-color: rgb(230, 147, 15);  
+}
