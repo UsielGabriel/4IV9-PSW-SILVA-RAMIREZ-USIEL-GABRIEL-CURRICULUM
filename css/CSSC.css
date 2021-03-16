@@ -22,12 +22,12 @@ html, body{
   background-color: rgb(230, 147, 15);  
 }
 
-.yo{
+/*.yo{
   
   margin-top: 2rem;
   margin-left:0rem;
   float: left;
-}
+}*/
 
 h1{
   font-size: 5rem;
@@ -66,8 +66,8 @@ h2{
 }
 .certificaciones{
   
-  padding-left: 21.5rem;
-  padding-right: 21.5rem;
+  padding-left: 21rem;
+  padding-right: 21rem;
   box-sizing: 
 }
 
@@ -77,8 +77,8 @@ h2{
 }
 
 .habilidades{
-  padding-left: 23rem;
-  padding-right: 23rem;
+  padding-left: 22.5rem;
+  padding-right: 22.5rem;
 }
 
 .idenap, .rubik, .cocinando, .leyendas, .peon, .skils{
